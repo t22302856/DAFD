@@ -1,9 +1,9 @@
-# ASEFall
+# DAFD
 
 Liu, K. C., Chan, M., Kuo, H. C., Hsieh, C. Y., Huang, H. Y., Chan, C. T., & Tsao, Y. (2021). Domain-adaptive fall detection using deep adversarial training. IEEE transactions on neural systems and rehabilitation engineering, 29, 1243-1251.
 
 
-DOI = 10.1109/TNSRE.2021.3089685
+DOI = https://doi.org/10.1109/TNSRE.2021.3089685
 
 ## Abstract
 
